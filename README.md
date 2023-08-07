@@ -99,6 +99,10 @@ If you prefer the command line way of downloading and installing things, then fe
 
 ## Discuss
 
+## Contact
+
+email: lion9200.world@gmail.com
+
 We are always looking for new members to join our community. One way to get involved is by joining our [Discord server](https://discord.gg/2RMs6zWw4b). On Discord, you can discuss the project, ask questions, and receive support from other members of the community.
 
 [![Discord Shield](https://discordapp.com/api/guilds/1038198557150285914/widget.png?style=shield)](https://discord.gg/2RMs6zWw4b)
